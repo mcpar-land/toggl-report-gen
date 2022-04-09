@@ -18,7 +18,7 @@
 		"color": "^3.1.2",
 		"deepmerge": "^4.2.2",
 		"dotenv-flow": "^3.1.0",
-		"moment": "^2.25.3",
+		"moment": "^2.29.2",
 		"moment-duration-format": "^2.3.2",
 		"nodemon": "^2.0.3",
 		"pdfkit": "^0.11.0",
